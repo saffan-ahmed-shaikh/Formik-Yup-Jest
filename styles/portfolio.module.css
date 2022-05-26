@@ -1,0 +1,217 @@
+/* .pf_header {
+  padding: 30px 0px 0px;
+}
+
+.pf_headerFlex {
+  display: flex;
+  align-items: center;
+  font-weight: 700;
+  color: #fff;
+
+}
+
+.pf_linkDiv {
+  width: 50%;
+  text-align: right;
+  color: #b99855;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 120%;
+}
+
+.pf_linkDiv:hover {
+  text-decoration: underline;
+}
+
+.pf_linkDiv a {
+  display: flex;
+  align-items: center;
+  justify-content: right;
+}
+
+.pf_linkDiv svg {
+  margin-left: 10px;
+}
+
+.pf_h1Div {
+  width: 50%;
+  text-align: left;
+}
+
+.pf_h1Div h1 {
+  font-size: 20px;
+} */
+
+/* .pf_summary {
+  flex-wrap: wrap;
+  border: 1px solid rgba(77, 77, 77, 0.5);
+  border-radius: 8px;
+} */
+
+.order1,
+.order2,
+.order3,
+.order4 {
+  width: 50%;
+}
+
+
+/* .dashB_amt {
+  margin-top: 40px;
+}
+
+
+
+.dashB_flex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+  flex-wrap: nowrap;
+}
+
+.vals {
+  padding: 0 20px;
+}
+
+.val_title {
+  font-weight: 400;
+  font-size: 14px;
+  text-align: center;
+  color: #aaa;
+}
+
+.downwords,
+.upwards {
+  display: flex;
+  align-items: center;
+  flex-wrap: nowrap;
+}
+
+.downwords {
+  color: #c73d3d;
+}
+
+.upwards {
+  color: #b5e361;
+}
+
+.down_icon,
+.up_icon {
+  margin-right: 5px;
+} */
+
+/* .down_amt {
+  font-size: 30px;
+}
+
+.up_amt {
+  font-size: 30px;
+} */
+
+/* .lower_div {
+  border-top: 1px solid #4d4d4d;
+  width: 90%;
+  margin: 30px auto 0;
+  padding-top: 30px;
+  text-align: center;
+} */
+
+/* .dashB_amt_flex {
+  margin-top: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.net_value {
+  margin-left: 22px;
+  color: #b5e361;
+}
+
+
+.up_icon svg {
+  padding-top: 15px;
+}
+
+.irr_val {
+  margin: 22px 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #b5e361;
+
+}
+
+.irr_val .up_icon {
+  font-size: 30px;
+  font-weight: 100;
+  color: rgb(181, 227, 97);
+  text-align: left;
+}
+
+.irr_val svg {
+  padding-top: 7px;
+}
+
+.excited_deals {
+  font-size: 14px;
+  font-style: italic;
+  font-weight: 400;
+  color: rgb(199, 199, 199);
+} */
+/* 
+@media (max-width: 1023px) {
+  .pf-summary {
+    padding: 30px 15px;
+    -webkit-justify-content: center;
+    justify-content: center;
+  }
+
+  .order1,
+  .order2,
+  .order3 {
+    width: 100%;
+    -webkit-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: none;
+    border-bottom: 1px solid #4d4d4d;
+  }
+
+  .order1 {
+    order: 1;
+  }
+
+  .order2 {
+    order: 2;
+  }
+
+  .order3 {
+    order: 3;
+  }
+
+  .lower_div {
+    border-top: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+  }
+
+  .col {
+    padding: 30px 0;
+  }
+
+  .order4 {
+    order: 4;
+  }
+}
+
+@media (max-width:525px) {
+  .dashB_flex {
+    flex-wrap: wrap;
+  }
+
+  .order4 {
+    width: 100%;
+  }
+} */
